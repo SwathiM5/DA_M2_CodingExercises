@@ -22,16 +22,22 @@ You will **not see the answer code** — only what your output should match.
 
 ## Setup Instructions
 
-### 1. Clone the Repository
+### 1. Fork & Clone the Repository
 
 ```bash
 git clone https://github.com/CodeYouOrg/DA_M2_CodingExercises
 cd DA_M2_CodingExercises
 ```
 
+### 2. Create exercise notebooks
+
+```bash
+touch w1_exercises.ipynb w2_exercises.ipynb
+```
+
 ---
 
-### 2. Install Required Package
+### 3. Install Required Package
 
 You must install Marimo before running any exercises:
 Windows:
@@ -64,7 +70,7 @@ This will open the interactive app in your browser.
 For each exercise:
 
 1. Read the prompt in the Marimo app
-2. Copy the provided starter code into your own file (VS Code or notebook)
+2. Copy the provided starter code into the exercise notebook you created
 3. Write your solution
 4. Run your code locally
 5. Go back to the Marimo app
